@@ -20,7 +20,7 @@ file convertions without a limit, but I don't want to be thousands of dollars in
 
 # How to Host Yourself
 ```bash
-git clone https://github.com/Skennymon/HEICtoJPEG.git
+git clone https://github.com/Forged-Iron/HEICtoJPEG-LocalHost.git
 ```
 ```bash
 cd FileConvertion
