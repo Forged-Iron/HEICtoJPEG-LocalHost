@@ -41,7 +41,7 @@ function App() {
     }
 
     try {
-      const response = await fetch(`https://heictojpeg.onrender.com/upload-and-convert-to/${convertTo}`, {
+      const response = await fetch(`http://127.0.0.1:8000/upload-and-convert-to/${convertTo}`, {
         method: 'POST',
         headers: {
           'accept': 'application/json',
